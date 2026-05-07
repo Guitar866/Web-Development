@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+
+<library>
+  <book id="001"> 
+    <title>Structure and Interpretation of Computer Programs (SICP)</title>
+    <author>Abelson, Sussman, Sussman</author>
+    <year>1984</year>
+  </book>
+
+  <book id="002">
+    <title>The C Programming Language</title>
+    <author>Kernighan, Ritchie</author>
+    <year>1978</year>
+  </book>
+
+  <book id="003">
+    <title>The Mythical Man-Month</title>
+    <author>Frederick P. Brooks Jr.</author>
+    <year>1975</year>
+  </book>
+  
+  <book id="004">
+  <title>Link Book</title>
+  <author>Unknown</author>
+  <year>2024</year>
+  <link>https://www.scribd.com/document/875269926/Books-CSE</link>
+  </book>
+</library>
